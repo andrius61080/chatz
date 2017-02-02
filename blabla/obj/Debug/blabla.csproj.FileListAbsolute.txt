@@ -4,3 +4,6 @@ C:\Users\andriusk\Desktop\temp\blabla\blabla\bin\Debug\blabla.pdb
 C:\Users\andriusk\Desktop\temp\blabla\blabla\obj\Debug\blabla.csprojResolveAssemblyReference.cache
 C:\Users\andriusk\Desktop\temp\blabla\blabla\obj\Debug\blabla.exe
 C:\Users\andriusk\Desktop\temp\blabla\blabla\obj\Debug\blabla.pdb
+C:\Users\andriusk\Desktop\temp\chatz\blabla\bin\Debug\blabla.exe.config
+C:\Users\andriusk\Desktop\temp\chatz\blabla\obj\Debug\blabla.exe
+C:\Users\andriusk\Desktop\temp\chatz\blabla\obj\Debug\blabla.pdb
